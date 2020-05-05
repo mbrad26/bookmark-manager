@@ -4,39 +4,57 @@
       "/Users/student/Desktop/makers/bookmark/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
           1,
           null,
           1,
           1,
           1,
-          null,
-          null,
           1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
           null,
           null,
           1,
           1,
           1,
           null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
           null,
           null
         ]
       },
+      "/Users/student/Desktop/makers/bookmark/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
       "/Users/student/Desktop/makers/bookmark/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -74,6 +92,6 @@
         ]
       }
     },
-    "timestamp": 1588683289
+    "timestamp": 1588706930
   }
 }
