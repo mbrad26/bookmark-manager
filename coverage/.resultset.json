@@ -38,6 +38,16 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -61,6 +71,23 @@
           1,
           1,
           null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Desktop/makers/bookmark/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
           1,
           null,
           null
@@ -92,6 +119,6 @@
         ]
       }
     },
-    "timestamp": 1588706930
+    "timestamp": 1588753786
   }
 }
